@@ -2,6 +2,23 @@
 
 This repository contains a script designed to simplify the process of installing essential packages within a Termux environment. Whether you're a developer, enthusiast, or security practitioner, this script automates the installation of various foundational tools and utilities, enhancing your Termux experience on Android devices.
 
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/BinaryBardAkshat/Termux-Packages.git
+    ```
+
+2. Navigate to the cloned directory:
+    ```bash
+    cd Termux-Packages
+    ```
+
+3. Run the script:
+    ```bash
+    bash ./main.sh
+    ```
+
 ## Key Features
 
 - **Package Installation:** Choose from a comprehensive list of packages, including Python, PHP, Java, Git, Perl, Bash, and more, simplifying the setup of your Termux environment.
@@ -12,9 +29,7 @@ This repository contains a script designed to simplify the process of installing
 
 ## Usage
 
-1. Clone or download this repository to your local environment.
-2. Open Termux and navigate to the directory where the script is located.
-3. Run the script and follow the on-screen prompts to install the desired packages.
+Once you've followed the installation steps and launched the script, follow the on-screen prompts to install the desired packages.
 
 **Note:** Please review the script before execution to ensure it aligns with your preferences and requirements. We recommend using it responsibly and adhering to ethical guidelines.
 
